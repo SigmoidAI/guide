@@ -1,2 +1,2 @@
 # guide
-This is a repository containing all SIGMOID NGO guides.
+This is a repository containing all SIGMOID NGO rulesets/guides.
